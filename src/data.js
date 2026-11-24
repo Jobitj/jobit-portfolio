@@ -3,7 +3,7 @@
 export const profile = {
   name: 'JOBIT',
   roles: ['Website Designer & Developer', 'Technical Support', 'UI / UX Designer', 'MERN Stack Developer'],
-  tagline: 'Designs and builds responsive websites and provides prompt, friendly technical support to help users resolve issues.',
+  tagline: 'MERN Stack Engineer & IT Admin: From Full-Stack Codebase to Reliable Cloud Uptime and Support.',
   email: 'jobitj2001@gmail.com',
   phone: '+91 974 410 1907',
   location: 'Kottayam, Kerala, India',
