@@ -10,7 +10,7 @@ export const profile = {
   photo: '/profile.png',          // original circle photo (fallback)
   cine: '/profile-cine.jpg',      // graded square portrait
   avatar: '/profile-avatar.jpg',  // centred face crop used in the About card
-  resume: '/resume.pdf',
+  resume: '/Jobit_Anto_Jose_Resume.pdf',
   socials: [
     { label: 'LinkedIn', url: 'https://linkedin.com/in/jobit-anto-jose' },
     { label: 'GitHub', url: 'https://github.com/Jobitj' },
