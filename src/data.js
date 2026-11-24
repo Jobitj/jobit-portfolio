@@ -3,7 +3,7 @@
 export const profile = {
   name: 'JOBIT',
   roles: ['Website Designer & Developer', 'Technical Support', 'UI / UX Designer', 'MERN Stack Developer'],
-  tagline: 'I design and build websites, and keep users happy with fast, friendly technical support.',
+  tagline: 'Designs and builds responsive websites and provides prompt, friendly technical support to help users resolve issues.',
   email: 'jobitj2001@gmail.com',
   phone: '+91 974 410 1907',
   location: 'Kottayam, Kerala, India',
@@ -132,7 +132,7 @@ export const faqs = [
 
 export const ticker = ['WEBSITE DESIGN', 'WEB DEVELOPMENT', 'TECHNICAL SUPPORT', 'UI / UX', 'MERN STACK', 'FIGMA', 'PHOTOSHOP', 'PREMIERE PRO'];
 
-export const statement = 'I design and build websites, support the people who use them, and make every pixel feel intentional.';
+export const statement = 'Design and build websites, support the people who use them, and make every pixel feel intentional.';
 
 // Defined last so the numbers always match the lists above (no made-up figures).
 export const stats = [

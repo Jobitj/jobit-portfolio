@@ -63,7 +63,7 @@ export default function Hero() {
           <span className="avail"><i className="dot" /> Available for work</span>
           <p className="bootline"><span>$</span> <TypeText words={BOOT} /></p>
           <h2 className="h2-role"><small></small><TypeText words={profile.roles} /></h2>
-          <p className="lead">{profile.tagline}</p>
+          {[].concat(profile.tagline).map((t) => <p className="lead" key={t}>{t}</p>)}
           <div className="row">
             <a href="#contact" className="btn"><span>Hire Me</span></a>
             <a href={profile.resume} className="btn btn-ghost" download><span>Download CV</span></a>
